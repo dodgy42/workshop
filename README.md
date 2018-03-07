@@ -1,2 +1,0 @@
-# workshop
-coding workshop
