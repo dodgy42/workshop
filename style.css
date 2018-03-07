@@ -1,6 +1,7 @@
 body {
     background-color: green;
     margin:0;
+    display:flex;
 }
 .main-h1 {
   background-color:red;  
