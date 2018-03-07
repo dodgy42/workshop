@@ -1,18 +1,18 @@
 body {
     background-color: green;
 }
-.main-hi {
-    
+.main-h1 {
+  background-color:red;  
 }
 .main-nav{
-    
+    background-color:blue;  
 }
 .main-header{
-    
+    background-color:orange;  
 }
 .main-section{
-    
+    background-color:pink;  
 }
 .main-footer{
-    
+    background-color:yellow;  
 }
