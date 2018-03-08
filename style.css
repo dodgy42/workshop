@@ -17,10 +17,13 @@ body {
     background-size:cover;
 }
 .main-nav{
-    background-color:blue;
+    background-color:grey;
     max-width:1200px;
     text-align:center;
     width:100%;
+}
+.main-nav a {
+    margin:30px;
 }
 .main-header{
     background-color:orange;
