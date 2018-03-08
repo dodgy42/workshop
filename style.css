@@ -9,16 +9,19 @@ body {
     background-color:red; 
     max-width:1000px;
     text-align:center;
+    width:100%;
 }
 .main-nav{
     background-color:blue;
     max-width:1000px;
     text-align:center;
+    width:100%;
 }
 .main-header{
     background-color:orange;
     max-width:1000px;
     text-align:center;
+    width:100%;
 }
 .main-section{
     background-color:pink;  
@@ -31,4 +34,5 @@ body {
     background-color:yellow;  
     max-width:1000px;
     text-align:center;
+    width:100%;
 }
