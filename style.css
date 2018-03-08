@@ -5,7 +5,9 @@ body {
     flex-direction: column;
 }
 .main-h1 {
-  background-color:red;  
+    background-color:red; 
+    max-width:1000px;
+    text-align:center;
 }
 .main-nav{
     background-color:blue;
@@ -14,11 +16,17 @@ body {
     margin:30px;
 }
 .main-header{
-    background-color:orange;  
+    background-color:orange;
+    max-width:1000px;
+    text-align:center;
 }
 .main-section{
     background-color:pink;  
+    max-width:1000px;
+    text-align:center;
 }
 .main-footer{
     background-color:yellow;  
+    max-width:1000px;
+    text-align:center;
 }
