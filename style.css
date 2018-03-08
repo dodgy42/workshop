@@ -13,7 +13,7 @@ body {
     width:100%;
     background-image: url(images/golem.jpg);
     background-position:center;
-    min-height:500px;
+    max-height:500px;
     background-size:cover;
 }
 .main-nav{
