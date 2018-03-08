@@ -25,6 +25,8 @@ body {
     max-width:970px;
     text-align:center;
     margin:30px;
+    align-self:center;
+    width:100%;
 }
 .main-footer{
     background-color:yellow;  
