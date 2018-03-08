@@ -11,7 +11,7 @@ body {
     max-width:1200px;
     text-align:center;
     width:100%;
-    background-image:url(images/golem.jpg)images/;
+    background-image: url(images/golem.jpg);
 }
 .main-nav{
     background-color:blue;
