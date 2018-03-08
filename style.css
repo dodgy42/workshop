@@ -8,7 +8,9 @@ body {
   background-color:red;  
 }
 .main-nav{
-    background-color:blue;  
+    background-color:blue;
+    max-width:500px;
+    text-align:center;
 }
 .main-header{
     background-color:orange;  
