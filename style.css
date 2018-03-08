@@ -14,6 +14,7 @@ body {
     background-image: url(images/golem.jpg);
     background-position:center;
     min-height:500px;
+    background-size:cover;
 }
 .main-nav{
     background-color:blue;
