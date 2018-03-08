@@ -15,14 +15,15 @@ body {
     background-position:center;
     min-height:500px;
     background-size:cover;
+    text-size:25px;
 }
 .main-nav{
     background-color:grey;
     max-width:1200px;
-    text-align:center;
     width:100%;
 }
 .main-nav a {
+    text-align:center;
     margin:30px;
 }
 .main-header{
