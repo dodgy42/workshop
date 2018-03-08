@@ -7,32 +7,32 @@ body {
 }
 .main-h1 {
     background-color:red; 
-    max-width:900px;
+    max-width:1200px;
     text-align:center;
     width:100%;
 }
 .main-nav{
     background-color:blue;
-    max-width:900px;
+    max-width:1200px;
     text-align:center;
     width:100%;
 }
 .main-header{
     background-color:orange;
-    max-width:900px;
+    max-width:1200px;
     text-align:center;
     width:100%;
 }
 .main-section{
     background-color:pink;  
-    max-width:870px;
+    max-width:1070px;
     text-align:center;
     margin:30px;
     width:100%;
 }
 .main-footer{
     background-color:yellow;  
-    max-width:900px;
+    max-width:1200px;
     text-align:center;
     width:100%;
 }
